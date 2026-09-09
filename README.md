@@ -4,7 +4,7 @@
 
 本项目是学习和研究性质的非官方 Unity 移植版本。
 
-![Preview](D:\Work\Unity\Voronoi-Map\Preview.png)
+![项目预览](./Preview.png)
 
 ## 主要功能
 

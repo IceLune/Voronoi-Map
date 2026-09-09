@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53b55ea8d9a384446a1d771155f4e952, type: 3}
+  m_Name: MapIconLibrary
+  m_EditorClassIdentifier: 
+  water:
+    sprites:
+    - {fileID: -210318283848485077, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -548219444880237320, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 4809187969954112437, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -1076579425218978931, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -3341693987286654314, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  mountains:
+    sprites:
+    - {fileID: -6616366950972451720, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 3726101493211874979, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 705962929980003155, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 8779796679477333938, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 3433167574667833666, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  shrub:
+    sprites:
+    - {fileID: 914596479963017383, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -9195197471628662527, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 8055911933413260802, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -8312851047047438854, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -5417494516104082401, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  desert:
+    sprites:
+    - {fileID: 5759657049945711048, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -5270079873333746085, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 7947621053976518963, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -316698436855184887, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 616957035486158434, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  jungle:
+    sprites:
+    - {fileID: -5578357072421692412, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 5768371896699324342, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -6698082471729593667, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 8260582034941898481, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -7418820429835173454, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  forest:
+    sprites:
+    - {fileID: 545006131806392606, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -4473492897187187222, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -4018840736970638598, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -8146886158725556268, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 6192439719300083833, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  grassland:
+    sprites:
+    - {fileID: -8219869684419760856, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -549428979739088033, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -1317814409669162981, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -4965287122259917716, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 7541666800184710524, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  marsh:
+    sprites:
+    - {fileID: 362900296252869599, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -8293887902863719506, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 6786728145251290084, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 5879168473772470270, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -4794712557411804698, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  winterForest:
+    sprites:
+    - {fileID: 5160208745927668934, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -2219611263438918612, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -2345926755549006724, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -1238483931855163936, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -2663890489424197995, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+  northernForest:
+    sprites:
+    - {fileID: -7324834200983478018, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 3822570901354927192, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: 8704496598802037994, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -103709691456732245, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
+    - {fileID: -1337280105142230198, guid: 462821488ac5f0543a6d734d20a43f5f, type: 3}
